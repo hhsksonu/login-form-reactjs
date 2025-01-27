@@ -26,7 +26,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/login-form-reactjs.git
+git clone https://github.com/hhsksonu/login-form-reactjs.git
 
 Navigate to the project directory:
 
